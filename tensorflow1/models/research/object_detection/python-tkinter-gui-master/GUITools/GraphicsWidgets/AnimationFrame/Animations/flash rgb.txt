@@ -1,3 +1,0 @@
-flash r=100
-flash g=100
-flash b=100
